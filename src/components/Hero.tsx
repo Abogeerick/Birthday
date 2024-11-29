@@ -27,8 +27,7 @@ const Hero = () => {
 
         <div className="bg-white/80 backdrop-blur-sm rounded-lg p-8 shadow-xl max-w-xl mx-auto">
           <p className="text-lg text-gray-800 italic">
-            "Sorry I almost forgot, but how could I ever truly forget someone as amazing as you? 
-            Your special day deserves all the celebration in the world! 
+            "Better late than sorry anyway...and I was supposed to make this yesterday
             Can't wait to give you your gift when you're back from Mombasa! 🎁✨"
           </p>
         </div>

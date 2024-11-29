@@ -1,18 +1,21 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import img1 from '../public/deee1.jpeg'
+import img2 from '../public/deee2.jpeg'
+import img3 from '../public/deee3.jpeg'
 
 const Gallery = () => {
   const images = [
     {
-      url: "/deee1.jpg",
+      url: img1,
       caption: "Birthday Style ✨"
     },
     {
-      url: "/deee2.jpg",
+      url: img2,
       caption: "Glowing and Growing 💫"
     },
     {
-      url: "/deee3.jpg",
+      url: img3,
       caption: "Night Out Vibes 🌟"
     }
   ];
